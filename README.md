@@ -62,7 +62,7 @@ High-performance, schema-less database powered by MongoDB.
 
 Project Motivation
 
-This project was created as part of the Winter Project event by AASF IIITM. We aimed to develop a real-world solution for transparent and efficient crowdfunding. The idea stemmed from the ROTARACT CLUB at IIITM, which needed a reliable web application to manage donations for charitable campaigns. Our goal was to create an intuitive, user-friendly platform that ensures transparency and security in transactions.
+This project was created as part of edunet virtual internship. We aimed to develop a real-world solution for transparent and efficient crowdfunding. . Our goal was to create an intuitive, user-friendly platform that ensures transparency and security in transactions.
 
 Deployment
 
