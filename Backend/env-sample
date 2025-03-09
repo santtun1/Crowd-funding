@@ -1,0 +1,7 @@
+JWT_SECRET = 8e997c20ae5e6af8fff2623fc4a11225d7f0133640cb456e96c647a596d46791c93b408a22a78d523e70ab0246416d2eed6a08e116d41f01acabe4dee382dde5
+
+MONGODB_URI = mongodb://localhost:27017/
+
+mid = "Your PayTM Merchant ID here" (https://dashboard.paytm.com/next/apikeys)
+key = "Your PayTM Merchant API key here" (https://dashboard.paytm.com/next/apikeys)
+website = <key>
